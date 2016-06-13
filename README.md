@@ -1,6 +1,6 @@
 # Shadowsocks-web
 llout.com的Shadowsocks网站前端模板
-<h4>DEMO</h4> <a href="https://llout.com/web/">演示</a>
+<h4><a href="https://llout.com/web/">DEMO</a></h4> 
 修改：
 <li>用户中心 地址</li>
 <li>图片</li>
